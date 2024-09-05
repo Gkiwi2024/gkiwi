@@ -256,7 +256,7 @@
 			"jar":"./zxwp/custom_spider.jar",
 			"ext": {
 				"json": "./zxwp/bilibili.json",
-				"cookie": "file://localhost/Download/tvbox/bili_cookie.txt"
+				"cookie": "clan://localhost/tvbox/bili_cookie.txt"
 			  }
 		},
 	
